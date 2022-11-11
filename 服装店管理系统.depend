@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1567509225 source:c:\users\chenmi\desktop\服装店管理系统\服装店管理系统\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<vector>
+
